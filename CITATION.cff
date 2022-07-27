@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Bella"
+  given-names: "Thiago"
+  orcid: "https://orcid.org/0000-0003-1642-7001"
+title: "Prediction Models for Cardiovascular Disease Deaths"
+doi: 
+date-released: 2022-07-27
+url: "https://github.com/climate-and-health-datasci-Unicamp/cvd-deaths-from-env"
